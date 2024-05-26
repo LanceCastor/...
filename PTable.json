@@ -1,0 +1,2172 @@
+[
+ {
+   "Element Symbol": "H",
+   "Element Name": "Hydrogen",
+   "Atomic Number": "1",
+   "Atomic Weight": "1",
+   "Oxidation State": "+1, -1",
+   "Electronegativity value": "2.1",
+   "Uses": {
+      "Importance": "Hydrogen can be used to power vehicles, generate electricity, power industry and heat our homes and businesses."
+   },
+   "Common products in which the element is present": "Hydrogen combines with other elements to form numerous compounds. Some of the common ones are: water (H2O), ammonia (NH3), methane (CH4), table sugar (C12H22O11), hydrogen peroxide (H2O2) and hydrochloric acid (HCl). ",
+   "Valence electron": "1",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "He",
+   "Element Name": "Helium",
+   "Atomic Number": "2",
+   "Atomic Weight": "4",
+   "Oxidation State": "0",
+   "Electronegativity value": "0",
+   "Uses": {
+      "Importance": "Perhaps the most familiar use of helium is as a safe, non-flammable gas to fill party and parade balloons. However, helium is a critical component in many fields, including scientific research, medical technology, high-tech manufacturing, space exploration, and national defense."
+   },
+   "Common products in which the element is present": "blimps, research balloons, and balloons for celebrations",
+   "Valence electron": "2",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Li",
+   "Element Name": "Lithium",
+   "Atomic Number": "3",
+   "Atomic Weight": "7",
+   "Oxidation State": "1",
+   "Electronegativity value": "1",
+   "Uses": {
+      "Importance": "The most important use of lithium is in rechargeable batteries for mobile phones, laptops, digital cameras and electric vehicles. Lithium is also used in some non-rechargeable batteries for things like heart pacemakers, toys and clocks."
+   },
+   "Common products in which the element is present": "Lithium-Ion batteries are rechargeable and are used in vaping devices, many personal electronics such as cell phones, tablets, and laptops, E-Bikes, electric toothbrushes, tools, hoverboards, scooters, and for solar power backup storage.",
+   "Valence electron": "1",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Be",
+   "Element Name": "Beryllium",
+   "Atomic Number": "4",
+   "Atomic Weight": "9",
+   "Oxidation State": "2",
+   "Electronegativity value": "1.5",
+   "Uses": {
+      "Importance": "Watch spring; Space shuttle paris; Welding electrodes; X-ray tubes."
+   },
+   "Common products in which the element is present": "2",
+   "Valence electron": "",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "B",
+   "Element Name": "Boron",
+   "Atomic Number": "5",
+   "Atomic Weight": "11",
+   "Oxidation State": "3",
+   "Electronegativity value": "2",
+   "Uses": {
+      "Importance": "Boron is an extremely valuable mineral and it is used in many products from cookware and medicine to nuclear waste storage and space exploration"
+   },
+   "Common products in which the element is present": "Common borate compounds include boric acid, salts of borates and boron oxide.",
+   "Valence electron": "3",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "C",
+   "Element Name": "Carbon",
+   "Atomic Number": "6",
+   "Atomic Weight": "12",
+   "Oxidation State": "+2, +-4",
+   "Electronegativity value": "2.5",
+   "Uses": {
+      "Importance": "helps to regulate the Earth's temperature, makes all life possible, is a key ingredient in the food that sustains us, and provides a major source of the energy to fuel our global economy"
+   },
+   "Common products in which the element is present": "Some of the common items in our homes are made of carbon, including shampoo, deodorant, hand lotion, and detergent.",
+   "Valence electron": "4",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "N",
+   "Element Name": "Nitrogen",
+   "Atomic Number": "7",
+   "Atomic Weight": "14",
+   "Oxidation State": "+-1, +-2, +-3,+4,+5",
+   "Electronegativity value": "3",
+   "Uses": {
+      "Importance": "It is used to make fertilisers, nitric acid, nylon, dyes and explosives."
+   },
+   "Common products in which the element is present": "Nitrogen is used to reduce fire hazards in some aircraft fuel systems. Nitrogen is also important to the chemical industry. It is used in the production of fertilisers, nitric acid, nylon, dyes and explosives. Nitrogen is used for filling in light bulbs since it is a non-reactive gas.",
+   "Valence electron": "5",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "O",
+   "Element Name": "Oxygen",
+   "Atomic Number": "8",
+   "Atomic Weight": "16",
+   "Oxidation State": "-2",
+   "Electronegativity value": "3.5",
+   "Uses": {
+      "Importance": "The main applications of oxygen in order of importance are: 1) melting, refining and manufacture of steel and other metals; 2) manufacture of chemicals by controlled oxidation; 3) rocket propulsion; 4) medical and biological life support; 5) mining, production and manufacture of stone and glass products."
+   },
+   "Common products in which the element is present": "Common uses of oxygen include production of steel, plastics and textiles, brazing, welding and cutting of steels and other metals, rocket propellant, oxygen therapy, and life support systems in aircraft, submarines, spaceflight and diving.",
+   "Valence electron": "6",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "F",
+   "Element Name": "Fluorine",
+   "Atomic Number": "9",
+   "Atomic Weight": "19",
+   "Oxidation State": "-1",
+   "Electronegativity value": "4",
+   "Uses": {
+      "Importance": "Fluorine and its compounds are used in producing uranium (from the hexafluoride) and more than 100 commercial fluorochemicals, including many high-temperature plastics. Hydrofluoric acid etches glass of light bulbs. Fluorochlorohydrocarbons are extensively used in air conditioning and refrigeration."
+   },
+   "Common products in which the element is present": "Now we use fluorine in refrigerators, toothpaste, and rocket fuels. Located in the second period of the table (row 2), fluorine is the first element in the family of halogen gases. Fluorine is a yellowish gas at room temperature and is very dangerous. Be careful if you are working in a chemistry lab with fluorine gas.",
+   "Valence electron": "7",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Ne",
+   "Element Name": "Neon",
+   "Atomic Number": "10",
+   "Atomic Weight": "20",
+   "Oxidation State": "0",
+   "Electronegativity value": "0",
+   "Uses": {
+      "Importance": "Neon is used in vacuum tubes, high-voltage indicators, lightning arresters, wavemeter tubes, television tubes, and helium–neon lasers."
+   },
+   "Common products in which the element is present": "vacuum tubes, high-voltage indicators, lightning arresters, wavemeter tubes, television tubes, and helium–neon lasers",
+   "Valence electron": "8",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Na",
+   "Element Name": "Sodium",
+   "Atomic Number": "11",
+   "Atomic Weight": "23",
+   "Oxidation State": "1",
+   "Electronegativity value": "0.9",
+   "Uses": {
+      "Importance": "Sodium is used as a heat exchanger in some nuclear reactors, and as a reagent in the chemicals industry. But sodium salts have more uses than the metal itself. The most common compound of sodium is sodium chloride (common salt). It is added to food and used to de-ice roads in winter."
+   },
+   "Common products in which the element is present": "Sodium is often added in packaged and prepared foods, such as canned soups, lunch meats and frozen dinners — either as salt or other common forms of sodium such as baking soda.",
+   "Valence electron": "1",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Mg",
+   "Element Name": "Magnesium",
+   "Atomic Number": "12",
+   "Atomic Weight": "24",
+   "Oxidation State": "2",
+   "Electronegativity value": "1.2",
+   "Uses": {
+      "Importance": "Electronics; Medicine;"
+   },
+   "Common products in which the element is present": "2",
+   "Valence electron": "",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "",
+   "Element Name": "",
+   "Atomic Number": "",
+   "Atomic Weight": "",
+   "Oxidation State": "",
+   "Electronegativity value": "",
+   "Uses": {
+      "Importance": "Fire combustion; Automobile"
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Al",
+   "Element Name": "Aluminum",
+   "Atomic Number": "13",
+   "Atomic Weight": "27",
+   "Oxidation State": "+1, +2, +3",
+   "Electronegativity value": "1.61",
+   "Uses": {
+      "Importance": "Aluminium is used in a huge variety of products including cans, foils, kitchen utensils, window frames, beer kegs and aeroplane parts."
+   },
+   "Common products in which the element is present": "Cans, Foils, Kitchen utensils,Tablet PCs, flat screen TVs, sporting equipment, furniture, mirrors and coffee machines",
+   "Valence electron": "3",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Si",
+   "Element Name": "Silicon",
+   "Atomic Number": "14",
+   "Atomic Weight": "28",
+   "Oxidation State": "2, +-4",
+   "Electronegativity value": "1.8",
+   "Uses": {
+      "Importance": "Silicone is used in a huge range of car parts, such as airbags, hydraulic bearings, ignition cables, shock absorbers and headlamps. You might be wearing it! Silicone is used in a variety of make-ups, cleansers, shampoos and other personal care products to improve shine and texture"
+   },
+   "Common products in which the element is present": "Silicon is the principal component of glass, cement, ceramics, most semiconductor devices, and silicones, the latter a plastic substance often confused with silicon. Silicon is also an important constituent of some steels and a major ingredient in bricks. It is a refractory material used in making enamels and pottery.",
+   "Valence electron": "4",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "P",
+   "Element Name": "Phosphorus",
+   "Atomic Number": "15",
+   "Atomic Weight": "31",
+   "Oxidation State": "+-3, +-5",
+   "Electronegativity value": "2.1",
+   "Uses": {
+      "Importance": "It is used to make fertilisers, animal feeds, rust removers, corrosion preventers, and even dishwasher tablets. Some phosphate rock is also heated with coke and sand in an electric furnace to form white phosphorus which is then converted to phosphorus trichloride and phosphorous acid."
+   },
+   "Common products in which the element is present": "Many different types of foods contain phosphorus, including dairy products, meats and poultry, fish, eggs, nuts, legumes, vegetables, and grains ",
+   "Valence electron": "5",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "S",
+   "Element Name": "Sulfur",
+   "Atomic Number": "16",
+   "Atomic Weight": "32",
+   "Oxidation State": "-2, +4,6",
+   "Electronegativity value": "2.6",
+   "Uses": {
+      "Importance": "Uses. Sulfur is commonly used to create sulfuric acid, which is used in a number of different industries. Specifically, sulfuric acid is used to make fertilizers and lead-acid batteries. As well, sulfur is used in the production or inorganic chemicals, matches, explosives, cement, and glass."
+   },
+   "Common products in which the element is present": "What are 3 common uses of sulfur? It is used for making car batteries, fertilizer, oil refining, water processing, and mineral extraction. Other applications for sulfur-based chemicals include rubber vulcanization, bleaching paper, and product making such as cement, detergents, and pesticides. And some gunpowder.",
+   "Valence electron": "6",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Cl",
+   "Element Name": "Chlorine",
+   "Atomic Number": "17",
+   "Atomic Weight": "35",
+   "Oxidation State": "+-1, +-5, 7",
+   "Electronegativity value": "3.1",
+   "Uses": {
+      "Importance": "Chlorine has a variety of uses. It is used to disinfect water and is part of the sanitation process for sewage and industrial waste. During the production of paper and cloth, chlorine is used as a bleaching agent. It is also used in cleaning products, including household bleach which is chlorine dissolved in water."
+   },
+   "Common products in which the element is present": "Large amounts of chlorine are used in many industrial processes, such as in the production of paper products, plastics, dyes, textiles, medicines, antiseptics, insecticides, solvents and paints. Two of the most familiar chlorine compounds are sodium chloride (NaCl) and hydrogen chloride (HCl).",
+   "Valence electron": "7",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Ar",
+   "Element Name": "Argon",
+   "Atomic Number": "18",
+   "Atomic Weight": "40",
+   "Oxidation State": "0",
+   "Electronegativity value": "0",
+   "Uses": {
+      "Importance": "Argon is used popularly within welding and casting industries, especially in the making of specialty alloys and manufacturing titanium. It is also used as a shield gas during arc welding, seeing as it protects the metal that's being worked on from oxygen."
+   },
+   "Common products in which the element is present": "Fluorescent tubes and low-energy light bulbs",
+   "Valence electron": "8",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "K",
+   "Element Name": "Potassium",
+   "Atomic Number": "19",
+   "Atomic Weight": "39",
+   "Oxidation State": "1",
+   "Electronegativity value": "0.8",
+   "Uses": {
+      "Importance": "Potassium plays a role in the transmission of nerve signals, muscle contractions, fluid balance, and various chemical reactions. Potassium is most commonly used for treating and preventing low potassium levels, treating high blood pressure, and preventing stroke."
+   },
+   "Common products in which the element is present": "Drain cleaners, fertilizers, heat transfer agents, strike anyware matches, fireworks, exosives",
+   "Valence electron": "1",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Ca",
+   "Element Name": "Calcium",
+   "Atomic Number": "20",
+   "Atomic Weight": "40",
+   "Oxidation State": "2",
+   "Electronegativity value": "1",
+   "Uses": {
+      "Importance": "Automotive batteries;"
+   },
+   "Common products in which the element is present": "2",
+   "Valence electron": "",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "",
+   "Element Name": "",
+   "Atomic Number": "",
+   "Atomic Weight": "",
+   "Oxidation State": "",
+   "Electronegativity value": "",
+   "Uses": {
+      "Importance": "Deodorizer; Food; Medicine;"
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "",
+   "Element Name": "",
+   "Atomic Number": "",
+   "Atomic Weight": "",
+   "Oxidation State": "",
+   "Electronegativity value": "",
+   "Uses": {
+      "Importance": "Portland cement"
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Sc",
+   "Element Name": "Scandium",
+   "Atomic Number": "21",
+   "Atomic Weight": "45",
+   "Oxidation State": "3",
+   "Electronegativity value": "1.3",
+   "Uses": {
+      "Importance": "Spacecraft materials,high intensity lights and tracing agent for refinery"
+   },
+   "Common products in which the element is present": "aluminum-scandium alloys ",
+   "Valence electron": "2",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Ti",
+   "Element Name": "Titanium",
+   "Atomic Number": "22",
+   "Atomic Weight": "48",
+   "Oxidation State": "+2,3,4",
+   "Electronegativity value": "1.5",
+   "Uses": {
+      "Importance": "Aircraft engines;"
+   },
+   "Common products in which the element is present": "house paint, artists' paint, plastics, enamels and paper.",
+   "Valence electron": "4",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "",
+   "Element Name": "",
+   "Atomic Number": "",
+   "Atomic Weight": "",
+   "Oxidation State": "",
+   "Electronegativity value": "",
+   "Uses": {
+      "Importance": "Desalination plants;"
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "",
+   "Element Name": "",
+   "Atomic Number": "",
+   "Atomic Weight": "",
+   "Oxidation State": "",
+   "Electronegativity value": "",
+   "Uses": {
+      "Importance": "Gemstones; Paints"
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "V",
+   "Element Name": "Vanadium",
+   "Atomic Number": "23",
+   "Atomic Weight": "51",
+   "Oxidation State": "+2,3,4,5",
+   "Electronegativity value": "1.6",
+   "Uses": {
+      "Importance": "High strength, tools;"
+   },
+   "Common products in which the element is present": "various alloys, Benfield and Stretford gas processing, coloring compounds, batteries, dye fixants and vitamins, as well as catalyst in maleic-acid and sulfuric-acid production.",
+   "Valence electron": "5",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "",
+   "Element Name": "",
+   "Atomic Number": "",
+   "Atomic Weight": "",
+   "Oxidation State": "",
+   "Electronegativity value": "",
+   "Uses": {
+      "Importance": "Ceramics; Superconductor"
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "",
+   "Element Name": "",
+   "Atomic Number": "",
+   "Atomic Weight": "",
+   "Oxidation State": "",
+   "Electronegativity value": "",
+   "Uses": {
+      "Importance": "mognet Spring; Banding agent"
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Cr",
+   "Element Name": "Chromium",
+   "Atomic Number": "24",
+   "Atomic Weight": "52",
+   "Oxidation State": "+2,3,6",
+   "Electronegativity value": "1.6",
+   "Uses": {
+      "Importance": "Videotape; Stainless steel;"
+   },
+   "Common products in which the element is present": "Paints and Dyes ",
+   "Valence electron": "6",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "",
+   "Element Name": "",
+   "Atomic Number": "",
+   "Atomic Weight": "",
+   "Oxidation State": "",
+   "Electronegativity value": "",
+   "Uses": {
+      "Importance": "Textile mordant; Tanning agent"
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Mn",
+   "Element Name": "Manganese",
+   "Atomic Number": "25",
+   "Atomic Weight": "55",
+   "Oxidation State": "+2,3,4,7",
+   "Electronegativity value": "1.5",
+   "Uses": {
+      "Importance": "Steel for rail switches;"
+   },
+   "Common products in which the element is present": "low-cost stainless steel formulations and certain widely used alumimum alloys.",
+   "Valence electron": "7",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "",
+   "Element Name": "",
+   "Atomic Number": "",
+   "Atomic Weight": "",
+   "Oxidation State": "",
+   "Electronegativity value": "",
+   "Uses": {
+      "Importance": "Dry cells; Paint dryer;"
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "",
+   "Element Name": "",
+   "Atomic Number": "",
+   "Atomic Weight": "",
+   "Oxidation State": "",
+   "Electronegativity value": "",
+   "Uses": {
+      "Importance": "Medicine oxidizer"
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Fe",
+   "Element Name": "Iron",
+   "Atomic Number": "26",
+   "Atomic Weight": "56",
+   "Oxidation State": "+2, 3",
+   "Electronegativity value": "1.8",
+   "Uses": {
+      "Importance": "Iron is essential in making hemoglobin, a protein in red blood cells. These red blood cells help carry oxygen throughout your body"
+   },
+   "Common products in which the element is present": "Meat, Poultry, Fish.",
+   "Valence electron": "2 or 8",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Co",
+   "Element Name": "Cobalt",
+   "Atomic Number": "27",
+   "Atomic Weight": "59",
+   "Oxidation State": "+2, 3",
+   "Electronegativity value": "1.8",
+   "Uses": {
+      "Importance": "used in many alloys & super alloys to make parts in aircraft engines, gas turbines, high-speed steels, corrosion-resistant alloys, and cemented carbides."
+   },
+   "Common products in which the element is present": "drying agents for paints, varnishes, and inks",
+   "Valence electron": "2 or 9",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Ni",
+   "Element Name": "Nickle",
+   "Atomic Number": "28",
+   "Atomic Weight": "59",
+   "Oxidation State": "+2, 3",
+   "Electronegativity value": "1.8",
+   "Uses": {
+      "Importance": "it is used to make coins. It is used in making wires. It is used in gas turbines and rocket engines as it has the capability to resist corrosion even at high temperatures."
+   },
+   "Common products in which the element is present": "coins, zippers, eyeglass frames, cosmetics, detergents,",
+   "Valence electron": "2 or 10",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Cu",
+   "Element Name": "Copper",
+   "Atomic Number": "29",
+   "Atomic Weight": "64",
+   "Oxidation State": "+1, 2",
+   "Electronegativity value": "1.9",
+   "Uses": {
+      "Importance": "Most copper is used in electrical equipment such as wiring and motors. This is because it conducts both heat and electricity very well, and can be drawn into wires."
+   },
+   "Common products in which the element is present": "refrigerators, washing machines, dryers, microwaves, and dishwashers",
+   "Valence electron": "1",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Zn",
+   "Element Name": "Zinc",
+   "Atomic Number": "30",
+   "Atomic Weight": "65",
+   "Oxidation State": "2",
+   "Electronegativity value": "1.6",
+   "Uses": {
+      "Importance": "It's needed for immune function, wound healing, blood clotting, thyroid function, and much more. It also plays a key role in maintaining vision and might have effects against viruses."
+   },
+   "Common products in which the element is present": "meat, fish, and seafood",
+   "Valence electron": "2",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Ga",
+   "Element Name": "Gallium",
+   "Atomic Number": "31",
+   "Atomic Weight": "70",
+   "Oxidation State": "3",
+   "Electronegativity value": "1.81",
+   "Uses": {
+      "Importance": "Common uses for gallium include the production of brilliant mirrors and in liquid thermometers. In the form of gallium arsenide (GaAs), this compound is used to produce LEDs for numerous devices such as smartphones and calculators, because it has the ability to convert electricity directly to light."
+   },
+   "Common products in which the element is present": "Semiconductors, transistors, and very small electronic devices",
+   "Valence electron": "3",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Ge",
+   "Element Name": "Germanium",
+   "Atomic Number": "32",
+   "Atomic Weight": "73",
+   "Oxidation State": "+2, 4",
+   "Electronegativity value": "1.8",
+   "Uses": {
+      "Importance": "This makes it suitable for use in wide-angle camera lenses and objective lenses for microscopes. This is now the major use for this element. Germanium is also used as an alloying agent (adding 1% germanium to silver stops it from tarnishing), in fluorescent lamps and as a catalyst."
+   },
+   "Common products in which the element is present": "It is used as dopant in telecom glass fibre and as semiconductor substrate for the solar arrays of telecommunication satellites. Other applications of germanium are CPV solar systems, light-emitting diodes (LEDs), gamma-ray detectors, infrared-optics, micro-electronics and polymerization catalysts.",
+   "Valence electron": "4",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "As",
+   "Element Name": "Arsenic",
+   "Atomic Number": "33",
+   "Atomic Weight": "75",
+   "Oxidation State": "+-3, +-5",
+   "Electronegativity value": "2.2",
+   "Uses": {
+      "Importance": "Arsenic and arsenic compounds have been produced and used commercially for centuries. Current and historical uses of arsenic include pharmaceuticals, wood preservatives, agricultural chemicals, and applications in the mining, metallurgical, glass-making, and semiconductor industries."
+   },
+   "Common products in which the element is present": "In the agricultural industry, arsenic has historically been used in a range of applications, including pesticides, herbicides, insecticides, cotton desiccants, defoliants, and soil sterilants.",
+   "Valence electron": "5",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Se",
+   "Element Name": "Selenium",
+   "Atomic Number": "34",
+   "Atomic Weight": "79",
+   "Oxidation State": "-2, +4, 6",
+   "Electronegativity value": "2.4",
+   "Uses": {
+      "Importance": "Selenium is used to make pigments for ceramics, paint and plastics. Selenium has both a photovoltaic action (converts light to electricity) and a photoconductive action (electrical resistance decreases with increased illumination). It is therefore useful in photocells, solar cells and photocopiers."
+   },
+   "Common products in which the element is present": "Seafood, organ meats, and Brazil nuts are the foods highest in selenium although Americans obtain most of their selenium from everyday staples, like breads, cereals, poultry, red meat, and eggs.",
+   "Valence electron": "6",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Br",
+   "Element Name": "bromine",
+   "Atomic Number": "35",
+   "Atomic Weight": "80",
+   "Oxidation State": "+-2, +-5",
+   "Electronegativity value": "3",
+   "Uses": {
+      "Importance": "Products containing bromine are used in agriculture and sanitation and as fire retardants (chemicals that help prevent things from catching fire). Some bromine-containing compounds were historically used as sedatives (drugs that can make people calm or sleepy)."
+   },
+   "Common products in which the element is present": "Elemental bromine is mainly used to manufacture flame retardants, pharmaceuticals, paper, dyes, insect repellents, drilling fluids, perfumes, photographic chemicals, water-treatment chemicals, and sanitizers. Bromine is also a key component of other chemicals. Crude salt is basic material in the chemical industry.",
+   "Valence electron": "7",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Kr",
+   "Element Name": "Krypton",
+   "Atomic Number": "36",
+   "Atomic Weight": "84",
+   "Oxidation State": "0, +1, +2",
+   "Electronegativity value": "3",
+   "Uses": {
+      "Importance": "Krypton is used commercially as a filling gas for energy-saving fluorescent lights. It is also used in some flash lamps used for high-speed photography. Unlike the lighter gases in its group, it is reactive enough to form some chemical compounds."
+   },
+   "Common products in which the element is present": "certain electric and fluorescent lamps",
+   "Valence electron": "8",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Rb",
+   "Element Name": "Rubidium",
+   "Atomic Number": "37",
+   "Atomic Weight": "85",
+   "Oxidation State": "1",
+   "Electronegativity value": "0",
+   "Uses": {
+      "Importance": "Rubidium salts are used in glasses and ceramics and in fireworks to give them a purple colour. Potential uses are in ion engines for space vehicles, as working fluid in vapor turbines, and as getter in vacuum tubes. Rubidium is considered to be the 16th most abundant element in the earth's crust."
+   },
+   "Common products in which the element is present": "A soft metal that ignites in the air and reacts violently with water. Rubidium is little used outside research. It has been used as a component of photocells, to remove traces of oxygen from vacuum tubes and to make special types of glass.",
+   "Valence electron": "1",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Sr",
+   "Element Name": "Stronium",
+   "Atomic Number": "38",
+   "Atomic Weight": "88",
+   "Oxidation State": "2",
+   "Electronegativity value": "1",
+   "Uses": {
+      "Importance": "Fireworks; Glass for color TV; Ferrite magnet"
+   },
+   "Common products in which the element is present": "2",
+   "Valence electron": "",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Y",
+   "Element Name": "Yttrium",
+   "Atomic Number": "39",
+   "Atomic Weight": "89",
+   "Oxidation State": "3",
+   "Electronegativity value": "1.3",
+   "Uses": {
+      "Importance": "color tv screen,microwave filters, transmitter and transducer"
+   },
+   "Common products in which the element is present": "camera lenses",
+   "Valence electron": "3",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Zr",
+   "Element Name": "Zirconium",
+   "Atomic Number": "40",
+   "Atomic Weight": "91",
+   "Oxidation State": "4",
+   "Electronegativity value": "1.4",
+   "Uses": {
+      "Importance": "Flash bulbs; Alloying agent in steel; Surgical appliances"
+   },
+   "Common products in which the element is present": "ceramics, foundry equipment, glass, chemicals, and metal alloys",
+   "Valence electron": "2",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Nb",
+   "Element Name": "Niobium",
+   "Atomic Number": "41",
+   "Atomic Weight": "93",
+   "Oxidation State": "+3,5",
+   "Electronegativity value": "1.6",
+   "Uses": {
+      "Importance": "Welding rods; Air frames systems;"
+   },
+   "Common products in which the element is present": "stainless steel",
+   "Valence electron": "5",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "",
+   "Element Name": "",
+   "Atomic Number": "",
+   "Atomic Weight": "",
+   "Oxidation State": "",
+   "Electronegativity value": "",
+   "Uses": {
+      "Importance": "Superconductive magnets"
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Mo",
+   "Element Name": "Molybdenum",
+   "Atomic Number": "42",
+   "Atomic Weight": "96",
+   "Oxidation State": "+3,5,6",
+   "Electronegativity value": "1.8",
+   "Uses": {
+      "Importance": "Radar structural parts;"
+   },
+   "Common products in which the element is present": "pure molybdic oxide and molybdates, and lubricant grade MoS2.",
+   "Valence electron": "6",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "",
+   "Element Name": "",
+   "Atomic Number": "",
+   "Atomic Weight": "",
+   "Oxidation State": "",
+   "Electronegativity value": "",
+   "Uses": {
+      "Importance": "Electrodes; Missile parts;"
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "",
+   "Element Name": "",
+   "Atomic Number": "",
+   "Atomic Weight": "",
+   "Oxidation State": "",
+   "Electronegativity value": "",
+   "Uses": {
+      "Importance": "Filament; Lubricant"
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Tc",
+   "Element Name": "Technetium",
+   "Atomic Number": "43",
+   "Atomic Weight": "98",
+   "Oxidation State": "+4,6,7",
+   "Electronegativity value": "1.9",
+   "Uses": {
+      "Importance": "Radiation therapy;"
+   },
+   "Common products in which the element is present": "radiographic scanning devices",
+   "Valence electron": "5",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "",
+   "Element Name": "",
+   "Atomic Number": "",
+   "Atomic Weight": "",
+   "Oxidation State": "",
+   "Electronegativity value": "",
+   "Uses": {
+      "Importance": "Corrosion inhibitor for steel"
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Ru",
+   "Element Name": "Ruthenium",
+   "Atomic Number": "44",
+   "Atomic Weight": "101",
+   "Oxidation State": "+3, 4, 6, 8",
+   "Electronegativity value": "2.2",
+   "Uses": {
+      "Importance": "used in the chemical industry to coat the anodes of electrochemical cells for chlorine production. Ruthenium is also used in catalysts for ammonia and acetic acid production."
+   },
+   "Common products in which the element is present": "jewelry, electrical contacts, solar cells",
+   "Valence electron": "8",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Rh",
+   "Element Name": "Rhodium",
+   "Atomic Number": "45",
+   "Atomic Weight": "103",
+   "Oxidation State": "+3, 4",
+   "Electronegativity value": "2.2",
+   "Uses": {
+      "Importance": "It reduces nitrogen oxides in exhaust gases. Rhodium is also used as catalysts in the chemical industry, for making nitric acid, acetic acid and hydrogenation reactions."
+   },
+   "Common products in which the element is present": "furnace windings, bushings for glass fiber production, thermocouple elements",
+   "Valence electron": "9",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Pd",
+   "Element Name": "Palladium",
+   "Atomic Number": "46",
+   "Atomic Weight": "106",
+   "Oxidation State": "+2, 4",
+   "Electronegativity value": "2.2",
+   "Uses": {
+      "Importance": "an important component in electronics, and it is used in many new technologies, such as fuel cells. As a commodity, it has drawn the attention of investors because it is not easily substituted for other metals."
+   },
+   "Common products in which the element is present": "broadcasting equipment, mobile telephones, computers, electronic lighting and high voltage circuits.",
+   "Valence electron": "10",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Ag",
+   "Element Name": "SIlver",
+   "Atomic Number": "47",
+   "Atomic Weight": "108",
+   "Oxidation State": "1",
+   "Electronegativity value": "1.9",
+   "Uses": {
+      "Importance": "It is used for jewellery and silver tableware, where appearance is important. Silver is used to make mirrors, as it is the best reflector of visible light known, although it does tarnish with time."
+   },
+   "Common products in which the element is present": "Silverware, jewelry, electronics, cars.",
+   "Valence electron": "1",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Cd",
+   "Element Name": "Cadmium",
+   "Atomic Number": "48",
+   "Atomic Weight": "112",
+   "Oxidation State": "2",
+   "Electronegativity value": "1.7",
+   "Uses": {
+      "Importance": "Common industrial uses for cadmium today are in batteries, alloys, coatings (electroplating), solar cells, plastic stabilizers, and pigments."
+   },
+   "Common products in which the element is present": "batteries, pigments, metal coatings, and plastics",
+   "Valence electron": "2",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "In",
+   "Element Name": "Indium",
+   "Atomic Number": "49",
+   "Atomic Weight": "115",
+   "Oxidation State": "+1, +3",
+   "Electronegativity value": "1.78",
+   "Uses": {
+      "Importance": "Indium is used to dope germanium to make transistors. It is also used to make other electrical components such as rectifiers, thermistors and photoconductors. Indium can be used to make mirrors that are as reflective as silver mirrors but do not tarnish as quickly. Indium is also used to make low melting alloys."
+   },
+   "Common products in which the element is present": "Television and cell phone screens, solar panels, microchips, glass, ball bearings, and fire-sprinkler systems",
+   "Valence electron": "3",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Sn",
+   "Element Name": "Tin",
+   "Atomic Number": "50",
+   "Atomic Weight": "119",
+   "Oxidation State": "+2, +4",
+   "Electronegativity value": "1.96",
+   "Uses": {
+      "Importance": "-It is used in tin plating, coating and polishing as it has a high resistance to corrosion."
+   },
+   "Common products in which the element is present": "Tin cans",
+   "Valence electron": "4",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "",
+   "Element Name": "",
+   "Atomic Number": "",
+   "Atomic Weight": "",
+   "Oxidation State": "",
+   "Electronegativity value": "",
+   "Uses": {
+      "Importance": ""
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "",
+   "Element Name": "",
+   "Atomic Number": "",
+   "Atomic Weight": "",
+   "Oxidation State": "",
+   "Electronegativity value": "",
+   "Uses": {
+      "Importance": ""
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Sb",
+   "Element Name": "amntimony",
+   "Atomic Number": "51",
+   "Atomic Weight": "122",
+   "Oxidation State": "-+3,5",
+   "Electronegativity value": "2.05",
+   "Uses": {
+      "Importance": "Glass and pottery"
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Te",
+   "Element Name": "Tellurium",
+   "Atomic Number": "52",
+   "Atomic Weight": "128",
+   "Oxidation State": "-2, +4, 6",
+   "Electronegativity value": "2.1",
+   "Uses": {
+      "Importance": "Tellurium has been used to vulcanise rubber, to tint glass and ceramics, in solar cells, in rewritable CDs and DVDs and as a catalyst in oil refining. It can be doped with silver, gold, copper or tin in semiconductor applications. Tellurium has no known biological role."
+   },
+   "Common products in which the element is present": "Tellurium has been used to vulcanise rubber, to tint glass and ceramics, in solar cells, in rewritable CDs and DVDs and as a catalyst in oil refining. It can be doped with silver, gold, copper or tin in semiconductor applications. Tellurium has no known biological role.",
+   "Valence electron": "6",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "I",
+   "Element Name": "Iodine",
+   "Atomic Number": "53",
+   "Atomic Weight": "127",
+   "Oxidation State": "+-1, +-5, 7",
+   "Electronegativity value": "2.6",
+   "Uses": {
+      "Importance": "Today, iodine has many commercial uses. Iodide salts are used in pharmaceuticals and disinfectants, printing inks and dyes, catalysts, animal feed supplements and photographic chemicals. Iodine is also used to make polarising filters for LCD displays."
+   },
+   "Common products in which the element is present": "Fish (such as cod and tuna), seaweed, shrimp, and other seafood, which are generally rich in iodine. Dairy products (such as milk, yogurt, and cheese) and eggs, which are also good sources of iodine. Iodized salt, which is readily available in the United States and many other countries*",
+   "Valence electron": "7",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Xe",
+   "Element Name": "Xenon",
+   "Atomic Number": "54",
+   "Atomic Weight": "131",
+   "Oxidation State": "+½, +2, +4, +6, +8",
+   "Electronegativity value": "2.6",
+   "Uses": {
+      "Importance": "Xenon is used in certain specialised light sources. It produces a beautiful blue glow when excited by an electrical discharge. Xenon lamps have applications as high-speed electronic flash bulbs used by photographers, sunbed lamps and bactericidal lamps used in food preparation and processing."
+   },
+   "Common products in which the element is present": "Photographic flash lamps, stroboscopic lamps, high-intensitive arc-lamps for motion picture projection and high-pressure arc lamps",
+   "Valence electron": "8",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Cs",
+   "Element Name": "Cesium",
+   "Atomic Number": "55",
+   "Atomic Weight": "133",
+   "Oxidation State": "1",
+   "Electronegativity value": "0.7",
+   "Uses": {
+      "Importance": "Cesium is used in manufacturing optical glasses and other optical instruments. It is used to remove oxygen from light bulbs and vacuum tubes. A special application of cesium is that it is used in the manufacturing of most accurate atomic clock. It is also called as cesium clock."
+   },
+   "Common products in which the element is present": "The most common use for caesium compounds is as a drilling fluid. They are also used to make special optical glass, as a catalyst promoter, in vacuum tubes and in radiation monitoring equipment. One of its most important uses is in the 'caesium clock' (atomic clock).",
+   "Valence electron": "1",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Ba",
+   "Element Name": "Barium",
+   "Atomic Number": "56",
+   "Atomic Weight": "137",
+   "Oxidation State": "2",
+   "Electronegativity value": "0.89",
+   "Uses": {
+      "Importance": "oil and gas industries to make drilling mud"
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "La",
+   "Element Name": "Lanthanum",
+   "Atomic Number": "57",
+   "Atomic Weight": "139",
+   "Oxidation State": "3",
+   "Electronegativity value": "1.1",
+   "Uses": {
+      "Importance": "Carbon lighting applications; Misch metal;"
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "2",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "",
+   "Element Name": "",
+   "Atomic Number": "",
+   "Atomic Weight": "",
+   "Oxidation State": "",
+   "Electronegativity value": "",
+   "Uses": {
+      "Importance": "• After Poland, the native country"
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "",
+   "Element Name": "",
+   "Atomic Number": "",
+   "Atomic Weight": "",
+   "Oxidation State": "",
+   "Electronegativity value": "",
+   "Uses": {
+      "Importance": "Nodular cast iron products"
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Ce",
+   "Element Name": "Cerium",
+   "Atomic Number": "58",
+   "Atomic Weight": "140",
+   "Oxidation State": "+3,4",
+   "Electronegativity value": "1.1",
+   "Uses": {
+      "Importance": "Misch metal coniponent;"
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "2 or 4",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "",
+   "Element Name": "",
+   "Atomic Number": "",
+   "Atomic Weight": "",
+   "Oxidation State": "",
+   "Electronegativity value": "",
+   "Uses": {
+      "Importance": "From fluo, or flow. Chemically"
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "",
+   "Element Name": "",
+   "Atomic Number": "",
+   "Atomic Weight": "",
+   "Oxidation State": "",
+   "Electronegativity value": "",
+   "Uses": {
+      "Importance": "Glass manufacturing;"
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Pr",
+   "Element Name": "Praseodymium",
+   "Atomic Number": "59",
+   "Atomic Weight": "141",
+   "Oxidation State": "3",
+   "Electronegativity value": "1.1",
+   "Uses": {
+      "Importance": "Coloring glass; Enamel;"
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "2 or 4",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "",
+   "Element Name": "",
+   "Atomic Number": "",
+   "Atomic Weight": "",
+   "Oxidation State": "",
+   "Electronegativity value": "",
+   "Uses": {
+      "Importance": "Core mat, for carbon arcs;"
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "",
+   "Element Name": "",
+   "Atomic Number": "",
+   "Atomic Weight": "",
+   "Oxidation State": "",
+   "Electronegativity value": "",
+   "Uses": {
+      "Importance": "Didymium glass component"
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Nd",
+   "Element Name": "Neodymium",
+   "Atomic Number": "60",
+   "Atomic Weight": "144",
+   "Oxidation State": "3",
+   "Electronegativity value": "1.2",
+   "Uses": {
+      "Importance": "Welders goggles;"
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "2 or 3",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "",
+   "Element Name": "",
+   "Atomic Number": "",
+   "Atomic Weight": "",
+   "Oxidation State": "",
+   "Electronegativity value": "",
+   "Uses": {
+      "Importance": "Didymium component"
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Pm",
+   "Element Name": "Promethium",
+   "Atomic Number": "61",
+   "Atomic Weight": "145",
+   "Oxidation State": "3",
+   "Electronegativity value": "7.22",
+   "Uses": {
+      "Importance": "X-ray & heat source;"
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "7",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Sm",
+   "Element Name": "Samarium",
+   "Atomic Number": "62",
+   "Atomic Weight": "150",
+   "Oxidation State": "+2,3",
+   "Electronegativity value": "1.2",
+   "Uses": {
+      "Importance": "Optical glass; Optical masers; Carbon arc lighting"
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "2 or 3",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Eu",
+   "Element Name": "Europium",
+   "Atomic Number": "63",
+   "Atomic Weight": "152",
+   "Oxidation State": "+2,3",
+   "Electronegativity value": "5.24",
+   "Uses": {
+      "Importance": "Laser materials; activator;"
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "2",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "",
+   "Element Name": "",
+   "Atomic Number": "",
+   "Atomic Weight": "",
+   "Oxidation State": "",
+   "Electronegativity value": "",
+   "Uses": {
+      "Importance": "Neutron absorber; Phosphor"
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Gd",
+   "Element Name": "Gadolinium",
+   "Atomic Number": "64",
+   "Atomic Weight": "157",
+   "Oxidation State": "3",
+   "Electronegativity value": "1.1",
+   "Uses": {
+      "Importance": "Neutron raciography;"
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "2 or 3",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "",
+   "Element Name": "",
+   "Atomic Number": "",
+   "Atomic Weight": "",
+   "Oxidation State": "",
+   "Electronegativity value": "",
+   "Uses": {
+      "Importance": "Nuclear marine propulsion;"
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "",
+   "Element Name": "",
+   "Atomic Number": "",
+   "Atomic Weight": "",
+   "Oxidation State": "",
+   "Electronegativity value": "",
+   "Uses": {
+      "Importance": "Magnetic component"
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Tb",
+   "Element Name": "Terbium",
+   "Atomic Number": "65",
+   "Atomic Weight": "159",
+   "Oxidation State": "3",
+   "Electronegativity value": "1.2",
+   "Uses": {
+      "Importance": "Laser maerial; Green Phosphors activator; Crystal stabilizer"
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "2",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Dy",
+   "Element Name": "Dysprosium",
+   "Atomic Number": "66",
+   "Atomic Weight": "163",
+   "Oxidation State": "3",
+   "Electronegativity value": "-",
+   "Uses": {
+      "Importance": "Magnets for electric motor; Alloy; Metallurgy;"
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "2 or 3",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "",
+   "Element Name": "",
+   "Atomic Number": "",
+   "Atomic Weight": "",
+   "Oxidation State": "",
+   "Electronegativity value": "",
+   "Uses": {
+      "Importance": "Nuclear reactors"
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Ho",
+   "Element Name": "Holmium",
+   "Atomic Number": "67",
+   "Atomic Weight": "165",
+   "Oxidation State": "",
+   "Electronegativity value": "1.2",
+   "Uses": {
+      "Importance": "Catalyst in industrial chemical reactiors; Electronic devices"
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "2 or 3",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Er",
+   "Element Name": "Erbium",
+   "Atomic Number": "68",
+   "Atomic Weight": "167",
+   "Oxidation State": "3",
+   "Electronegativity value": "1.2",
+   "Uses": {
+      "Importance": "Porcelain enamel glazes;"
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "2 or 3",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "",
+   "Element Name": "",
+   "Atomic Number": "",
+   "Atomic Weight": "",
+   "Oxidation State": "",
+   "Electronegativity value": "",
+   "Uses": {
+      "Importance": "Glass colorant"
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Tm",
+   "Element Name": "Thulium",
+   "Atomic Number": "69",
+   "Atomic Weight": "169",
+   "Oxidation State": "3",
+   "Electronegativity value": "1.2",
+   "Uses": {
+      "Importance": "X-ray; energy source;"
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "2 or 3",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Yb",
+   "Element Name": "Ytterbium",
+   "Atomic Number": "70",
+   "Atomic Weight": "173",
+   "Oxidation State": "+2,3",
+   "Electronegativity value": "1.1",
+   "Uses": {
+      "Importance": ""
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "2 or 3",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Lu",
+   "Element Name": "Lutetium",
+   "Atomic Number": "71",
+   "Atomic Weight": "175",
+   "Oxidation State": "3",
+   "Electronegativity value": "1.2",
+   "Uses": {
+      "Importance": ""
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "2 or 3",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Hf",
+   "Element Name": "Hafnium",
+   "Atomic Number": "72",
+   "Atomic Weight": "178",
+   "Oxidation State": "4",
+   "Electronegativity value": "1.3",
+   "Uses": {
+      "Importance": "Nuclear submarines;"
+   },
+   "Common products in which the element is present": "refrigerants, herbicides, pharmaceuticals, high-octane gasoline, aluminum, plastics, electrical components, and fluorescent light bulbs",
+   "Valence electron": "2",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "",
+   "Element Name": "",
+   "Atomic Number": "",
+   "Atomic Weight": "",
+   "Oxidation State": "",
+   "Electronegativity value": "",
+   "Uses": {
+      "Importance": "Gas filled incandescent lamps;"
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "",
+   "Element Name": "",
+   "Atomic Number": "",
+   "Atomic Weight": "",
+   "Oxidation State": "",
+   "Electronegativity value": "",
+   "Uses": {
+      "Importance": "Reactor control rods"
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Ta",
+   "Element Name": "Tantalum",
+   "Atomic Number": "73",
+   "Atomic Weight": "181",
+   "Oxidation State": "5",
+   "Electronegativity value": "1.5",
+   "Uses": {
+      "Importance": "Surgical instruments;"
+   },
+   "Common products in which the element is present": "vulcanise rubber, to tint glass and ceramics, in solar cells, in rewritable CDs and DVDs and as a catalyst in oil refining.",
+   "Valence electron": "2",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "",
+   "Element Name": "",
+   "Atomic Number": "",
+   "Atomic Weight": "",
+   "Oxidation State": "",
+   "Electronegativity value": "",
+   "Uses": {
+      "Importance": "Cutting tools; Capacitors;"
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "",
+   "Element Name": "",
+   "Atomic Number": "",
+   "Atomic Weight": "",
+   "Oxidation State": "",
+   "Electronegativity value": "",
+   "Uses": {
+      "Importance": "Vacuum furnace parts"
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "W",
+   "Element Name": "Tungsten",
+   "Atomic Number": "74",
+   "Atomic Weight": "184",
+   "Oxidation State": "6",
+   "Electronegativity value": "1.7",
+   "Uses": {
+      "Importance": "Lamp filaments; High speed tools; Space crafts;"
+   },
+   "Common products in which the element is present": "heavy metal alloys such as high speed steel",
+   "Valence electron": "2",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "",
+   "Element Name": "",
+   "Atomic Number": "",
+   "Atomic Weight": "",
+   "Oxidation State": "",
+   "Electronegativity value": "",
+   "Uses": {
+      "Importance": "Lubricant; Paint"
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Re",
+   "Element Name": "Rhenium",
+   "Atomic Number": "75",
+   "Atomic Weight": "186",
+   "Oxidation State": "-1,6,7",
+   "Electronegativity value": "1.9",
+   "Uses": {
+      "Importance": "Photoflash lamp;"
+   },
+   "Common products in which the element is present": "dill, yellow zucchini, romaine lettuce, and green zucchini",
+   "Valence electron": "2",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "",
+   "Element Name": "",
+   "Atomic Number": "",
+   "Atomic Weight": "",
+   "Oxidation State": "",
+   "Electronegativity value": "",
+   "Uses": {
+      "Importance": "Thermocouples; lon gauges;"
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "",
+   "Element Name": "",
+   "Atomic Number": "",
+   "Atomic Weight": "",
+   "Oxidation State": "",
+   "Electronegativity value": "",
+   "Uses": {
+      "Importance": "Electrical device"
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Os",
+   "Element Name": "Osmium",
+   "Atomic Number": "76",
+   "Atomic Weight": "190",
+   "Oxidation State": "+3.4 ",
+   "Electronegativity value": "2.2",
+   "Uses": {
+      "Importance": "It is used to produce very hard alloys for fountain pen tips, instrument pivots, needles and electrical contacts."
+   },
+   "Common products in which the element is present": "ball point pen tips, fountain pen tips, record player needles, compass needles and electrical contacts.",
+   "Valence electron": "2",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Ir",
+   "Element Name": "Iridium",
+   "Atomic Number": "77",
+   "Atomic Weight": "192",
+   "Oxidation State": "3.4",
+   "Electronegativity value": "2.2",
+   "Uses": {
+      "Importance": "It is used in special alloys and forms an alloy with osmium, which is used for pen tips and compass bearings."
+   },
+   "Common products in which the element is present": "Fountain pens, Razor coating, Aircraft spark plugs, Forensic staining",
+   "Valence electron": "2",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Pt",
+   "Element Name": "Platinum",
+   "Atomic Number": "78",
+   "Atomic Weight": "195",
+   "Oxidation State": "+2, 4",
+   "Electronegativity value": "2.2",
+   "Uses": {
+      "Importance": "is used in the chemicals industry as a catalyst for the production of nitric acid, silicone and benzene."
+   },
+   "Common products in which the element is present": "platinum pens, autocatalyst, glass, electronics",
+   "Valence electron": "1",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Au",
+   "Element Name": "Gold",
+   "Atomic Number": "79 ",
+   "Atomic Weight": "197",
+   "Oxidation State": "+1, 3",
+   "Electronegativity value": "2.4",
+   "Uses": {
+      "Importance": "s used to increase the value of a huge range of decorative items, such as medals and badges. Gold doesn't corrode or tarnish as quickly as copper and silver making it a great conductor of electricity and is highly resistant to heat."
+   },
+   "Common products in which the element is present": "jewerly,aircraft windows, medicines, and electronics",
+   "Valence electron": "1",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Hg",
+   "Element Name": "Mercury",
+   "Atomic Number": "80",
+   "Atomic Weight": "201",
+   "Oxidation State": "+1, 2",
+   "Electronegativity value": "1.9",
+   "Uses": {
+      "Importance": "It is used in some electrical switches and rectifiers. Previously its major use was in the manufacture of sodium hydroxide and chlorine by electrolysis of brine."
+   },
+   "Common products in which the element is present": "Dental amalgam, batteries, jewerly, fluorescent lamps, paint",
+   "Valence electron": "2",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Tl",
+   "Element Name": "Thallium",
+   "Atomic Number": "81",
+   "Atomic Weight": "204",
+   "Oxidation State": "+1, +3",
+   "Electronegativity value": "1.62",
+   "Uses": {
+      "Importance": "It is found in trace amounts in the earth's crust. Thallium has not been produced in the United States since 1984, but is imported for use in the manufacture of electronics, low temperature thermometers, optical lenses, and imitation precious jewels. It also has use in some chemical reactions and medical procedures."
+   },
+   "Common products in which the element is present": "Electronic devices, switches, and closures.",
+   "Valence electron": "3",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "",
+   "Element Name": "",
+   "Atomic Number": "",
+   "Atomic Weight": "",
+   "Oxidation State": "",
+   "Electronegativity value": "",
+   "Uses": {
+      "Importance": ""
+   },
+   "Common products in which the element is present": "Up until 1972 thallium was used as a rat poison, but was then banned because of its potential harm to man.",
+   "Valence electron": "",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Pb",
+   "Element Name": "Lead",
+   "Atomic Number": "82",
+   "Atomic Weight": "207",
+   "Oxidation State": "+2, +4",
+   "Electronegativity value": "2.33",
+   "Uses": {
+      "Importance": "Lead is still widely used for car batteries, pigments, ammunition, cable sheathing, weights for lifting, weight belts for diving, lead crystal glass, radiation protection and in some solders. It is often used to store corrosive liquids."
+   },
+   "Common products in which the element is present": "Bullets, Storage batteries",
+   "Valence electron": "4",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Bi",
+   "Element Name": "Bismuth",
+   "Atomic Number": "83",
+   "Atomic Weight": "209",
+   "Oxidation State": "+3,5",
+   "Electronegativity value": "2.02",
+   "Uses": {
+      "Importance": "Fire detector"
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Po",
+   "Element Name": "Polonium",
+   "Atomic Number": "84",
+   "Atomic Weight": "209",
+   "Oxidation State": "+2,4",
+   "Electronegativity value": "2",
+   "Uses": {
+      "Importance": "Research porpuses"
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "At",
+   "Element Name": "Astatine",
+   "Atomic Number": "85",
+   "Atomic Weight": "210",
+   "Oxidation State": "+-1",
+   "Electronegativity value": "2.2",
+   "Uses": {
+      "Importance": "Astatine does not have many uses because of its radioactivity and extremely short life. It is mainly used for research. It is also used as a radioactive tracer and a treatment for thyroid cancer."
+   },
+   "Common products in which the element is present": "N/A",
+   "Valence electron": "7",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Rn",
+   "Element Name": "Radon",
+   "Atomic Number": "86",
+   "Atomic Weight": "222",
+   "Oxidation State": "0, +2",
+   "Electronegativity value": "2.2",
+   "Uses": {
+      "Importance": "Scientific:"
+   },
+   "Common products in which the element is present": "Rock and soil",
+   "Valence electron": "8",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "",
+   "Element Name": "",
+   "Atomic Number": "",
+   "Atomic Weight": "",
+   "Oxidation State": "",
+   "Electronegativity value": "",
+   "Uses": {
+      "Importance": "- Radon is used to track air masses to a limited level."
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "",
+   "Element Name": "",
+   "Atomic Number": "",
+   "Atomic Weight": "",
+   "Oxidation State": "",
+   "Electronegativity value": "",
+   "Uses": {
+      "Importance": "-Changes in groundwater radon concentrations help in the prediction of Earthquake."
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "",
+   "Element Name": "",
+   "Atomic Number": "",
+   "Atomic Weight": "",
+   "Oxidation State": "",
+   "Electronegativity value": "",
+   "Uses": {
+      "Importance": "-In the 1940’s radon is used X-ray sources and for industrial radiography."
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "",
+   "Element Name": "",
+   "Atomic Number": "",
+   "Atomic Weight": "",
+   "Oxidation State": "",
+   "Electronegativity value": "",
+   "Uses": {
+      "Importance": "Medical:"
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "",
+   "Element Name": "",
+   "Atomic Number": "",
+   "Atomic Weight": "",
+   "Oxidation State": "",
+   "Electronegativity value": "",
+   "Uses": {
+      "Importance": "-A process called Radon hormesis is used to mitigate auto-immune diseases like arthritis."
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "",
+   "Element Name": "",
+   "Atomic Number": "",
+   "Atomic Weight": "",
+   "Oxidation State": "",
+   "Electronegativity value": "",
+   "Uses": {
+      "Importance": "-It is used in the treatment of cell damage and cancer."
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "",
+   "Element Name": "",
+   "Atomic Number": "",
+   "Atomic Weight": "",
+   "Oxidation State": "",
+   "Electronegativity value": "",
+   "Uses": {
+      "Importance": "-Radon is also used in radiation therapy."
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Fr",
+   "Element Name": "Francium",
+   "Atomic Number": "87",
+   "Atomic Weight": "223",
+   "Oxidation State": "1",
+   "Electronegativity value": "0.7",
+   "Uses": {
+      "Importance": "Francium has been used in the field of research, chemistry and also in the atomic structure. It is used for diagnostics for curing cancers. It is also used in many spectroscopic experiments. Francium is a highly radioactive metal, and since it exhibits a short half-life, it does not have more impact on the environment."
+   },
+   "Common products in which the element is present": "All isotopes of francium decay into astatine, radium, or radon. Francium-223 also has a shorter half-life than the longest-lived isotope of each synthetic element up to and including element 105, dubnium.",
+   "Valence electron": "1",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Ra",
+   "Element Name": "Radium",
+   "Atomic Number": "88",
+   "Atomic Weight": "226",
+   "Oxidation State": "2",
+   "Electronegativity value": "0.9",
+   "Uses": {
+      "Importance": "Nuclear Panels"
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Ac",
+   "Element Name": "Actinium",
+   "Atomic Number": "89",
+   "Atomic Weight": "227",
+   "Oxidation State": "3",
+   "Electronegativity value": "1.1",
+   "Uses": {
+      "Importance": "As a radioactive element, the primary use of actinium is as a source of radiation. It is also used to produce bismuth-213, a radioactive isotope used in radioimmunotherapy. Actinium-225 is sometimes used in cancer treatments and actinium-227 is sometimes used to study the movement of fluids in oceans."
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "2",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Th",
+   "Element Name": "Thorium",
+   "Atomic Number": "90",
+   "Atomic Weight": "232",
+   "Oxidation State": "4",
+   "Electronegativity value": "1.3",
+   "Uses": {
+      "Importance": "Thorium is used to make ceramics, welding rods, camera and telescope lenses, fire brick, heat resistant paint and metals used in the aerospace industry, as well as in nuclear reactions. Thorium has the potential to be used as a fuel for generating nuclear energy."
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "4",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Pa",
+   "Element Name": "Protactinium",
+   "Atomic Number": "91",
+   "Atomic Weight": "231",
+   "Oxidation State": "+4,+5",
+   "Electronegativity value": "1.5",
+   "Uses": {
+      "Importance": "Because of its scarcity, high radioactivity, and high toxicity, there are currently no uses for protactinium outside scientific research, and for this purpose, protactinium is mostly extracted from spent nuclear fuel."
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "2",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "U",
+   "Element Name": "Uranium",
+   "Atomic Number": "92",
+   "Atomic Weight": "238",
+   "Oxidation State": "+3,+4,+5,+6",
+   "Electronegativity value": "1.7",
+   "Uses": {
+      "Importance": "Uranium is now used to power commercial nuclear reactors that produce electricity and to produce isotopes used for medical, industrial, and defense purposes around the world."
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "6",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Np",
+   "Element Name": "Neptunium",
+   "Atomic Number": "93",
+   "Atomic Weight": "237",
+   "Oxidation State": "+3,+4,+5,+6",
+   "Electronegativity value": "1.3",
+   "Uses": {
+      "Importance": "While neptunium itself has no commercial uses at present, it is used as a precursor for the formation of plutonium-238, which is in turn used in radioisotope thermal generators to provide electricity for spacecraft. Neptunium has also been used in detectors of high-energy neutrons."
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "7",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Pu",
+   "Element Name": "Plutonium",
+   "Atomic Number": "94",
+   "Atomic Weight": "244",
+   "Oxidation State": "+3,+4,+5,+6",
+   "Electronegativity value": "1.3",
+   "Uses": {
+      "Importance": "Plutonium-238 generates significant heat through its radioactive decay process, which makes it useful as a heat source for sensitive electrical components in satellites, as a well as a power source (for example, battery power) for satellites. Plutonium-239 is used to make nuclear weapons."
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "2",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Am",
+   "Element Name": "Americium",
+   "Atomic Number": "95",
+   "Atomic Weight": "243",
+   "Oxidation State": "+3,+4,+5,+6",
+   "Electronegativity value": "1.3",
+   "Uses": {
+      "Importance": "Americium is commonly used in smoke alarms, but has few other uses. It has the potential to be used in spacecraft batteries in the future."
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "2",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Cm",
+   "Element Name": "Curium",
+   "Atomic Number": "96",
+   "Atomic Weight": "247",
+   "Oxidation State": "3",
+   "Electronegativity value": "1.3",
+   "Uses": {
+      "Importance": "Curium has two main uses: as a fuel for Radioisotope Thermal Generators (RTGs) on board satellites, deep space probes, planetary surface rovers and in heart pacemakers, and as a alpha emitter for alpha particle X-Ray spectrometry, again particularly in space applications."
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "2",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Bk",
+   "Element Name": "Berkelium",
+   "Atomic Number": "97",
+   "Atomic Weight": "247",
+   "Oxidation State": "+3,+4",
+   "Electronegativity value": "1.3",
+   "Uses": {
+      "Importance": "the element is not used biologically or for technological purposes. It was used for the atmospheric nuclear weapons tests between 1945 and 1980. "
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "2",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Cf",
+   "Element Name": "Californium",
+   "Atomic Number": "98",
+   "Atomic Weight": "251",
+   "Oxidation State": "3",
+   "Electronegativity value": "1.3",
+   "Uses": {
+      "Importance": "Californium is a radioactive metal. Californium is a very strong neutron emitter. It is used in portable metal detectors, for identifying gold and silver ores, to identify water and oil layers in oil wells and to detect metal fatigue and stress in aeroplanes."
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "2",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Es",
+   "Element Name": "Einsteinium",
+   "Atomic Number": "99",
+   "Atomic Weight": "252",
+   "Oxidation State": "3",
+   "Electronegativity value": "1.3",
+   "Uses": {
+      "Importance": "Einsteinium has no uses outside research. Einsteinium has no known biological role. It is toxic due to its radioactivity. Einsteinium can be obtained in milligram quantities from the neutron bombardment of plutonium in a nuclear reactor."
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "2",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Fm",
+   "Element Name": "Fermium",
+   "Atomic Number": "100",
+   "Atomic Weight": "257",
+   "Oxidation State": "3",
+   "Electronegativity value": "1.3",
+   "Uses": {
+      "Importance": "Fermium has no uses outside research. Fermium has no known biological role. It is toxic due to its radioactivity. Fermium can be obtained, in microgram quantities, from the neutron bombardment of plutonium in a nuclear reactor."
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "2",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Md",
+   "Element Name": "Mendelevium",
+   "Atomic Number": "101",
+   "Atomic Weight": "258",
+   "Oxidation State": "+2,+3",
+   "Electronegativity value": "1.3",
+   "Uses": {
+      "Importance": "Currently, there are no real uses for mendelevium, except in research. In time, mendelevium may be used for technology purposes and harvesting energy."
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "2",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "No",
+   "Element Name": "Nobelium",
+   "Atomic Number": "102",
+   "Atomic Weight": "259",
+   "Oxidation State": "+2,+3",
+   "Electronegativity value": "1.3",
+   "Uses": {
+      "Importance": "Nobelium has no uses outside research. Nobelium has no known biological role. It is toxic due to its radioactivity. Nobelium is made by bombarding curium with carbon in a device called a cyclotron."
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "2",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Lr",
+   "Element Name": "Lawrencium",
+   "Atomic Number": "103",
+   "Atomic Weight": "262",
+   "Oxidation State": "3",
+   "Electronegativity value": "1.3",
+   "Uses": {
+      "Importance": "Only a few atoms of lawrencium have ever been made. Because of this, there is no commercial use for this element. Its only use is for research within a laboratory. Most actinides are used for their radioactive properties."
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "3",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "",
+   "Element Name": "",
+   "Atomic Number": "",
+   "Atomic Weight": "",
+   "Oxidation State": "",
+   "Electronegativity value": "",
+   "Uses": {
+      "Importance": ""
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "",
+   "Element Name": "",
+   "Atomic Number": "",
+   "Atomic Weight": "",
+   "Oxidation State": "",
+   "Electronegativity value": "",
+   "Uses": {
+      "Importance": ""
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "",
+   "Element Name": "",
+   "Atomic Number": "",
+   "Atomic Weight": "",
+   "Oxidation State": "",
+   "Electronegativity value": "",
+   "Uses": {
+      "Importance": ""
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "",
+   "Element Name": "",
+   "Atomic Number": "",
+   "Atomic Weight": "",
+   "Oxidation State": "",
+   "Electronegativity value": "",
+   "Uses": {
+      "Importance": ""
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "",
+   "Element Name": "",
+   "Atomic Number": "",
+   "Atomic Weight": "",
+   "Oxidation State": "",
+   "Electronegativity value": "",
+   "Uses": {
+      "Importance": ""
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "",
+   "Element Name": "",
+   "Atomic Number": "",
+   "Atomic Weight": "",
+   "Oxidation State": "",
+   "Electronegativity value": "",
+   "Uses": {
+      "Importance": ""
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "",
+   "Element Name": "",
+   "Atomic Number": "",
+   "Atomic Weight": "",
+   "Oxidation State": "",
+   "Electronegativity value": "",
+   "Uses": {
+      "Importance": ""
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "",
+   "Element Name": "",
+   "Atomic Number": "",
+   "Atomic Weight": "",
+   "Oxidation State": "",
+   "Electronegativity value": "",
+   "Uses": {
+      "Importance": ""
+   },
+   "Common products in which the element is present": "",
+   "Valence electron": "",
+   "FIELD10": ""
+},
+ {
+   "Element Symbol": "Column1",
+   "Element Name": "Column2",
+   "Atomic Number": "Column3",
+   "Atomic Weight": "Column4",
+   "Oxidation State": "Column5",
+   "Electronegativity value": "Column6",
+   "Uses": {
+      "Importance": "Column7"
+   },
+   "Common products in which the element is present": "Column8",
+   "Valence electron": "Column9",
+   "FIELD10": ""
+}
+]
